@@ -1,16 +1,56 @@
-## Hi there 👋
+# 👨‍💻 Franco Martino | Desarrollador de Software 🇦🇷
 
-<!--
-**FrancoMartino/FrancoMartino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francomartino/)
+[![Portafolio](https://img.shields.io/badge/Portafolio-FF5733?style=for-the-badge&logo=react&logoColor=white)](https://martinofranco.com/)
 
-Here are some ideas to get you started:
+Soy **Franco Martino**, un Desarrollador de Software argentino y estudiante de Ingeniería en Informática.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💡 Sobre Mí
+
+Mi mayor pasión es **transformar ideas en soluciones tecnológicas innovadoras**. Me impulsa la curiosidad, el aprendizaje constante y el desafío de hacer la tecnología más **accesible y potente** para todos.
+
+Actualmente, mis áreas de enfoque principales son:
+
+* **Desarrollo Web** (especialmente en el Frontend y la creación de Extensiones de Navegador).
+* La **intersección entre Software y Hardware** (IoT, microcontroladores).
+
+Siempre estoy buscando el siguiente proyecto para crear, optimizar y aprender.
+
+---
+
+## 🛠️ Mi Stack Tecnológico
+
+Aquí tienes un vistazo de las herramientas y lenguajes con los que trabajo habitualmente:
+
+| Categoría | Tecnologías |
+| :--- | :--- |
+| **Lenguajes Core** | JavaScript, TypeScript, Python, C++, HTML5, CSS3 |
+| **Frameworks/Librerías** | React, Tailwind CSS, Node.js |
+| **Hardware/IoT** | Arduino |
+| **Herramientas/DevOps** | VS Code, Git, Figma |
+
+### Insignias de Habilidades
+
+¡Pronto añadiré más insignias aquí!
+---
+
+## 🚀 Proyectos Destacados
+
+| Nombre del Proyecto | Descripción | Tecnologías |
+| :--- | :--- | :--- |
+| **Cod-ES 🇪🇸** | Librería Open-Source para **Arduino** que simplifica la programación para hispanohablantes al permitir código en español. | C++, Arduino |
+| **Portfolio Personal 🌐** | Carta de presentación digital, limpia y funcional para mostrar habilidades y proyectos. | React, TypeScript, HTML, CSS |
+| **Extensiones de Navegador 🧑‍💻** | Herramientas de automatización y mejora de la Experiencia de Usuario (UX), como *Massive CF* y *CENDOJ Extractor*. | JavaScript, HTML, CSS |
+
+---
+
+## 🌐 Conéctate Conmigo
+
+¡Me encantaría colaborar o simplemente hablar de tecnología! No dudes en contactarme a través de:
+
+| Plataforma | Enlace |
+| :--- | :--- |
+| **LinkedIn** | [linkedin.com/in/francomartino/](https://www.linkedin.com/in/francomartino/) |
+| **Portafolio** | [martinofranco.com/](https://martinofranco.com/) |
