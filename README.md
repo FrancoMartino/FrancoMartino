@@ -31,11 +31,6 @@ Aquí tienes un vistazo de las herramientas y lenguajes con los que trabajo habi
 | **Hardware/IoT** | Arduino |
 | **Herramientas/DevOps** | VS Code, Git, Figma |
 
-### Insignias de Habilidades
-
-¡Pronto añadiré más insignias aquí!
----
-
 ## 🚀 Proyectos Destacados
 
 | Nombre del Proyecto | Descripción | Tecnologías |
