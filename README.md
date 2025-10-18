@@ -42,14 +42,3 @@ Aquí tienes un vistazo de las herramientas y lenguajes con los que trabajo habi
 | :--- | :--- | :--- |
 | **Cod-ES 🇪🇸** | Librería Open-Source para **Arduino** que simplifica la programación para hispanohablantes al permitir código en español. | C++, Arduino |
 | **Extensiones de Navegador 🧑‍💻** | Herramientas de automatización y mejora de la Experiencia de Usuario (UX), como *Massive CF* y *CENDOJ Extractor*. | JavaScript, HTML, CSS |
-
----
-
-## 🌐 Conéctate Conmigo
-
-¡Me encantaría colaborar o simplemente hablar de tecnología! No dudes en contactarme a través de:
-
-| Plataforma | Enlace |
-| :--- | :--- |
-| **LinkedIn** | [linkedin.com/in/francomartino/](https://www.linkedin.com/in/francomartino/) |
-| **Portafolio** | [martinofranco.com/](https://martinofranco.com/) |
