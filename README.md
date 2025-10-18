@@ -41,7 +41,6 @@ Aquí tienes un vistazo de las herramientas y lenguajes con los que trabajo habi
 | Nombre del Proyecto | Descripción | Tecnologías |
 | :--- | :--- | :--- |
 | **Cod-ES 🇪🇸** | Librería Open-Source para **Arduino** que simplifica la programación para hispanohablantes al permitir código en español. | C++, Arduino |
-| **Portfolio Personal 🌐** | Carta de presentación digital, limpia y funcional para mostrar habilidades y proyectos. | React, TypeScript, HTML, CSS |
 | **Extensiones de Navegador 🧑‍💻** | Herramientas de automatización y mejora de la Experiencia de Usuario (UX), como *Massive CF* y *CENDOJ Extractor*. | JavaScript, HTML, CSS |
 
 ---
