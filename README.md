@@ -1,39 +1,43 @@
-# 👨‍💻 Franco Martino | Desarrollador de Software 🇦🇷
+# 👨‍💻 Franco Martino | Software Developer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francomartino/)
-[![Portafolio](https://img.shields.io/badge/Portafolio-FF5733?style=for-the-badge&logo=react&logoColor=white)](https://martinofranco.com/)
+### Building the future, line by line. 🚀
 
-Soy **Franco Martino**, un Desarrollador de Software argentino y estudiante de Ingeniería en Informática.
-
----
-
-## 💡 Sobre Mí
-
-Mi mayor pasión es **transformar ideas en soluciones tecnológicas innovadoras**. Me impulsa la curiosidad, el aprendizaje constante y el desafío de hacer la tecnología más **accesible y potente** para todos.
-
-Actualmente, mis áreas de enfoque principales son:
-
-* **Desarrollo Web** (especialmente en el Frontend y la creación de Extensiones de Navegador).
-* La **intersección entre Software y Hardware** (IoT, microcontroladores).
-
-Siempre estoy buscando el siguiente proyecto para crear, optimizar y aprender.
+I am a 19-year-old Software Developer from Argentina, currently studying **Computer Engineering (UADE)**. I am passionate about creating innovative technological solutions that solve real-world problems. My approach merges modern software development with a strong background in electronics, always striving for efficiency and growth.
 
 ---
 
-## 🛠️ Mi Stack Tecnológico
+### 🌟 Featured Projects
 
-Aquí tienes un vistazo de las herramientas y lenguajes con los que trabajo habitualmente:
+* **[Cod-ES](https://github.com/FrancoMartino/cod-es):** An Open-Source library to program Arduino using Spanish syntax. **Awarded and recognized by the Ministry of Education (PBA)** for its educational impact.
+* **Massive CF:** An automation and productivity tool for Instagram, optimizing 'Close Friends' list management for marketing agencies.
+* **CENDOJ Extractor:** A Web Scraping solution designed for the legal sector, automating massive data extraction from Spanish legal portals.
+* **SearchMore:** A high-performance browser extension focused on search engine optimization and UX customization.
 
-| Categoría | Tecnologías |
+---
+
+### 🛠️ Tech Stack
+
+| Category | Technologies |
 | :--- | :--- |
-| **Lenguajes Core** | JavaScript, TypeScript, Python, C++, HTML5, CSS3 |
-| **Frameworks/Librerías** | React, Tailwind CSS, Node.js |
-| **Hardware/IoT** | Arduino |
-| **Herramientas/DevOps** | VS Code, Git, Figma |
+| **Languages** | JavaScript (ES6+), TypeScript, Python, C++, HTML5, CSS3, Lua |
+| **Frontend** | React, TailwindCSS |
+| **Backend / Tools** | Node.js, Supabase, Power Apps, Figma |
+| **Hardware / IoT** | Arduino, Microcontrollers |
 
-## 🚀 Proyectos Destacados
+---
 
-| Nombre del Proyecto | Descripción | Tecnologías |
-| :--- | :--- | :--- |
-| **Cod-ES 🇪🇸** | Librería Open-Source para **Arduino** que simplifica la programación para hispanohablantes al permitir código en español. | C++, Arduino |
-| **Extensiones de Navegador 🧑‍💻** | Herramientas de automatización y mejora de la Experiencia de Usuario (UX), como *Massive CF* y *CENDOJ Extractor*. | JavaScript, HTML, CSS |
+### 🎓 Education & Certifications
+
+* **B.S. in Computer Engineering** - UADE (2025 - Present)
+* **Electronics Technician** - EEST N°3
+* **Scientific Computing with Python** - freeCodeCamp
+* **Mobile App Development** - Google Activate
+
+---
+
+### 📫 Let's Connect
+- 🌐 **Portfolio:** [martinofranco.com](https://martinofranco.com)
+- 💼 **LinkedIn:** [linkedin.com/in/francomartino](https://linkedin.com/in/francomartino)
+- 📧 **Contact:** Reach out via my website.
+
+---
