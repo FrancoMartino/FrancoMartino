@@ -26,12 +26,29 @@ I am a 19-year-old Software Developer from Argentina, currently studying **Compu
 
 ---
 
-### 🎓 Education & Certifications
+### 🎓 Education
 
-* **B.S. in Computer Engineering** - UADE (2025 - Present)
-* **Electronics Technician** - EEST N°3
+* **B.S. in Computer Engineering** - UADE (2024 - Present)
+* **Electronics Technician** - EEST N°3 "Nuestra Señora del Rosario" (2018 - 2023)
+
+### 📜 Certifications
+
+**Development & Computer Science**
 * **Scientific Computing with Python** - freeCodeCamp
-* **Mobile App Development** - Google Activate
+* **The Bits and Bytes of Computer Networking** - Google (Coursera)
+* **Desarrollo de Aplicaciones Móviles** - Google Activate
+* **Foundations of User Experience (UX) Design** - Google (Coursera)
+* **Data Visualization** - freeCodeCamp
+* **Data Analysis with Python** - freeCodeCamp
+* **Introduction to Cybersecurity** - Cisco
+
+**Automation & Business Solutions**
+* **Microsoft Certified: Power Platform Fundamentals (PL-900)** - Microsoft
+* **Robotic Process Automation (RPA) Specialization** - UiPath
+
+**Languages & Others**
+* **EF SET English Certificate (C2 Proficient)** - EF Standard English Test
+* **Arduino Innovation Award** - Ministry of Education (PBA)
 
 ---
 
@@ -39,5 +56,3 @@ I am a 19-year-old Software Developer from Argentina, currently studying **Compu
 - 🌐 **Portfolio:** [martinofranco.com](https://martinofranco.com)
 - 💼 **LinkedIn:** [linkedin.com/in/francomartino](https://linkedin.com/in/francomartino)
 - 📧 **Contact:** Reach out via my website.
-
----
