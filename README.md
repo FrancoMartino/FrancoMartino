@@ -28,26 +28,13 @@ I am a 19-year-old Software Developer from Argentina, currently studying **Compu
 
 ### 🎓 Education
 
-* **B.S. in Computer Engineering** - UADE (2024 - Present)
-* **Electronics Technician** - EEST N°3 "Nuestra Señora del Rosario" (2018 - 2023)
+* **B.S. in Computer Engineering** - UADE (2025 - Present)
+* **Electronics Technician** - EEST N°3 "República de México" (2018 - 2024)
 
 ### 📜 Certifications
 
-**Development & Computer Science**
 * **Scientific Computing with Python** - freeCodeCamp
-* **The Bits and Bytes of Computer Networking** - Google (Coursera)
-* **Desarrollo de Aplicaciones Móviles** - Google Activate
-* **Foundations of User Experience (UX) Design** - Google (Coursera)
-* **Data Visualization** - freeCodeCamp
-* **Data Analysis with Python** - freeCodeCamp
 * **Introduction to Cybersecurity** - Cisco
-
-**Automation & Business Solutions**
-* **Microsoft Certified: Power Platform Fundamentals (PL-900)** - Microsoft
-* **Robotic Process Automation (RPA) Specialization** - UiPath
-
-**Languages & Others**
-* **Arduino Innovation Award** - Ministry of Education (PBA)
 
 ---
 
