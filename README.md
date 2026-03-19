@@ -47,7 +47,6 @@ I am a 19-year-old Software Developer from Argentina, currently studying **Compu
 * **Robotic Process Automation (RPA) Specialization** - UiPath
 
 **Languages & Others**
-* **EF SET English Certificate (C2 Proficient)** - EF Standard English Test
 * **Arduino Innovation Award** - Ministry of Education (PBA)
 
 ---
