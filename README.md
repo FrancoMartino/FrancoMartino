@@ -9,9 +9,9 @@ I am a 19-year-old Software Developer from Argentina, currently studying **Compu
 ### 🌟 Featured Projects
 
 * **[Cod-ES](https://github.com/FrancoMartino/cod-es):** An Open-Source library to program Arduino using Spanish syntax. **Awarded and recognized by the Ministry of Education (PBA)** for its educational impact.
-* **[Massive CF](https://github.com/FrancoMartino/cendoj-extractor):** An automation and productivity tool for Instagram, optimizing 'Close Friends' list management for marketing agencies.
-* **CENDOJ Extractor:** A Web Scraping solution designed for the legal sector, automating massive data extraction from Spanish legal portals.
-* **SearchMore:** A high-performance browser extension focused on search engine optimization and UX customization.
+* **Massive CF:** An automation and productivity tool for Instagram, optimizing 'Close Friends' list management for marketing agencies.
+* **[CENDOJ Extractor](https://github.com/FrancoMartino/cendoj-extractor):** A Web Scraping solution designed for the legal sector, automating massive data extraction from Spanish legal portals.
+* **[SearchMore](https://github.com/FrancoMartino/search-more):** A high-performance browser extension focused on search engine optimization and UX customization.
 
 ---
 
