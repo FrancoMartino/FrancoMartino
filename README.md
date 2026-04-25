@@ -2,7 +2,7 @@
 
 ### Building the future, line by line. 🚀
 
-I am a 19-year-old Software Developer from Argentina, currently studying **Computer Engineering (UADE)**. I am passionate about creating innovative technological solutions that solve real-world problems. My approach merges modern software development with a strong background in electronics, always striving for efficiency and growth.
+I am a Software Developer from Argentina, currently studying **Computer Engineering (UADE)**. I am passionate about creating innovative technological solutions that solve real-world problems. My approach merges modern software development with a strong background in electronics, always striving for efficiency and growth.
 
 ---
 
